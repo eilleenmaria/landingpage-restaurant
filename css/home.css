@@ -1,0 +1,10 @@
+/* start header styles */
+#nav{background-color: rgba(var(--color_1) 0.5); 
+    padding: 0 1.5rem 0 1.5rem; display: flex; justify-content: center; 
+    transition: all ease-in-out 1s; opacity: 0.6; box-shadow: rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;}
+.nav-header{width: 80%; height: 100%;display: flex; justify-content: space-evenly; align-items: center;}
+.nav-header_containLogo{align-self: flex-end;}
+.nav-header_logo{width: 8rem; height: 8rem;}
+/* end header styles */
+
+
